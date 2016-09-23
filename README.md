@@ -1,3 +1,16 @@
+# my .gitignore for typical web development project 
+'typical' means involving Node.js, JetBrains PHPstorm etc.
+
+in order to create you .gitignore file, execute the following script in Powershell command line:
+
+    .\webdevGitignore.ps1
+    
+Your .gitignore file appears as `.\Dist\.gitignore`
+
+All the best!
+
+----
+
 # A collection of `.gitignore` templates
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
